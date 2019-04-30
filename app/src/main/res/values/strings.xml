@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CycleDeVie2</string>
+    <string name="button1">Plus un</string>
+    <string name="button2">RAZ</string>
+    <string name="checkbox">Afficher les toasts</string>
+    <string name="nbclic">Nombre de clics = </string>
+    <string name="numclic">clic n°</string>
+
+</resources>

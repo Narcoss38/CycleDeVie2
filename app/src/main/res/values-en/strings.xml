@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CycleDeVie2</string>
+    <string name="button1">Pus one</string>
+    <string name="button2">Reset</string>
+    <string name="checkbox">Display toasts</string>
+    <string name="nbclic">Amount of clics =</string>
+    <string name="numclic">clic n°</string>
+</resources>
